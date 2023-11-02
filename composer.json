@@ -4,7 +4,7 @@
   "type": "silverstripe-vendormodule",
   "license": "MIT",
   "require": {
-    "silverstripe/framework": "~4.0"
+    "silverstripe/framework": "^5.0"
   },
   "keywords": [
     "cms",
